@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'VoimaRegular';
+    src: url('./VoimaRegular.ttf') format('truetype');
+  }
+body{
+    font-family: VoimaRegular;
+}
